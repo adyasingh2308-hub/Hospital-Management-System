@@ -60,9 +60,17 @@ Hospital-Management-System/
 │
 ├── main.py
 └── README.md
-```
+patients.py
+appointment.py
+validation.py
+storage.py
+test_project.py
+patients.json
+appointments.json
+patients.txt
+statement.md
+Hospital_Management_System_Report.pdf
 
-Update the project structure if the repository contains additional Python files.
 
 ## Concepts Used
 
