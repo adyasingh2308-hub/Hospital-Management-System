@@ -1,0 +1,2 @@
+with open("patients.txt","a")as file:
+  file.write(f"{patient_id},{name},{age},{disease}\n")P1001,Adya,18,Typhoid
